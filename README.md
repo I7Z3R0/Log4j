@@ -1,3 +1,9 @@
+# Credits
+    ** Full credits to feihong-cs. I have just copied this repo for my reference to work with log4j if there is anything which i face. **
+
+
+
+
 # JNDIExploit
 一款用于 ```JNDI注入``` 利用的工具，大量参考/引用了 ```Rogue JNDI``` 项目的代码，支持直接```植入内存shell```，并集成了常见的```bypass 高版本JDK```的方式，适用于与自动化工具配合使用。
 
