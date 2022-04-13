@@ -1,5 +1,5 @@
 # Credits
-    * Full credits to feihong-cs. I have just copied this repo for my reference to work with log4j if there is anything which i face. *
+### Full credits to **feihong-cs**. I have just copied this repo for my reference to work with log4j if there is anything which i face. Since the repo has been deleted i copied it from wayback machine
 
 
 
